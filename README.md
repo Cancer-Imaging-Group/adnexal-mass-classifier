@@ -19,7 +19,7 @@ The proposed ML model provides a new pathway for adnexal mass analysis, which ma
 
 ## Overview of Approach  
 ![Overview of the AI Classification Approach](figures/Overview.png)
-*Figure: Overview of the machine learning classification approach for adnexal masses.*
+*Figure: Overview of the AI Classification Approach. The end-to-end approach can be achieved through a combination of Deep Learning (DL) for segmentation and radiomics or a direct DL-based approach without the need for explicit segmentation. (A) Traditional radiomics feature pipeline involving segmentation of the region of interest, radiomics feature computation, and machine learning modeling. (B) DL approach utilizing convolutional neural networks for automated segmentation and classification*
 
 ## Features 
 - Segmentation Model Code
